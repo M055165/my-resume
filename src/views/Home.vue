@@ -2,7 +2,6 @@
 <div>
     <div v-if="navActive == 'contact'" class="bg_img2"></div>
     <div v-else class="bg_img1"></div>
-  
     <!-- Nav區 -->
     <mynav @burgerClick="burgerClick"></mynav>
     <!-- Header區 -->

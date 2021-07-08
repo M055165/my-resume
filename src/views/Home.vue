@@ -1,24 +1,6 @@
 <template>
 <div>
-    <div v-if="navActive == 'contact'" class="bg_img2"></div>
-    <div v-else class="bg_img1"></div>
-
-    <!-- Nav區 -->
-    <mynav @burgerClick="burgerClick"></mynav>
-    <!-- Header區 -->
-    <myheader :burgerFlag='burgerFlag'></myheader>
-    <!-- About區 -->
-    <about :aboutShow='aboutShow'></about>
-    <!-- Skills區 -->
-    <skills></skills>
-    <!-- Projects區 -->
-    <projects></projects>
-    <!-- experience區 -->
-    <experience></experience>
-    <!-- contact區 -->
-    <contact></contact>
-    <!-- footer區 -->
-    <myfooter></myfooter>
+   Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, expedita, molestiae repellendus similique animi mollitia error aliquid omnis temporibus vitae excepturi nisi tempora vel. Eius quibusdam commodi quis odit nisi?
 </div>
 </template>
 

@@ -1,6 +1,24 @@
 <template>
 <div>
-   okfdkofkodLorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ab, corporis ipsam dignissimos sapiente omnis eaque amet sit commodi obcaecati culpa ipsa odio architecto cum minima pariatur aut dolor expedita.
+    <div v-if="navActive == 'contact'" class="bg_img2"></div>
+    <div v-else class="bg_img1"></div>
+  
+    <!-- Nav區 -->
+    <mynav @burgerClick="burgerClick"></mynav>
+    <!-- Header區 -->
+    <myheader :burgerFlag='burgerFlag'></myheader>
+    <!-- About區 -->
+    <about :aboutShow='aboutShow'></about>
+    <!-- Skills區 -->
+    <skills></skills>
+    <!-- Projects區 -->
+    <projects></projects>
+    <!-- experience區 -->
+    <experience></experience>
+    <!-- contact區 -->
+    <contact></contact>
+    <!-- footer區 -->
+    <myfooter></myfooter>
 </div>
 </template>
 

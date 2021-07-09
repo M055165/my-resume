@@ -204,7 +204,7 @@ export default {
              projects: [
              {
             title: 'Vue電商平台',
-            imgUrl: '/img/vue-shopping.3dc6827a.png',
+            imgUrl: '/img/vue-shopping.png',
             href: 'https://m055165.github.io/vue-shopping/',
             content: [
               '前端框架使用Vue.js 搭配Vue router、Vue cli3 等技術',
@@ -215,7 +215,7 @@ export default {
           },
           {
             title: 'Vue電影訂票系統',
-            imgUrl: '/img/mymovie.68345289.png',
+            imgUrl: '/img/mymovie.png',
             href: 'https://github.com/M055165/mymovie',
             content: [
               '前端框架使用Vue.js 搭配Vue router、Vue cli3 等技術',
@@ -226,7 +226,7 @@ export default {
           },
           {
             title: '水庫即時雨量',
-            imgUrl: '/img/vue-reservoir.b74e9bcc.png',
+            imgUrl: '/img/vue-reservoir.png',
             href: 'https://m055165.github.io/vue-reservoir/',
             content: [
               '透過製作網頁來時時關心台灣的水庫',
@@ -237,7 +237,7 @@ export default {
           },
           {
             title: '阿里山草藥辨識App',
-            imgUrl: '/img/ic_logo.bd7916df.png',
+            imgUrl: '/img/ic_logo.png',
             href: 'https://github.com/M055165/identificationApp',
             content: [
               '中正大學畢業專題(系展第一名',

@@ -35,7 +35,7 @@
                     </li>
                 </ul>
                 <div class="projects_links">
-                    <button class="projects_button" @click="toProjects(projectsIndex)">點擊我進入專案</button>
+                    <a class="projects_button"  :href="projects[projectsIndex].href">點擊我進入專案</a>
                 </div>
             </div>
 
@@ -47,6 +47,7 @@
 
 <style lang="scss" scoped>
 #projects {
+    text-decoration: none;
     padding-top: 60px;
     padding-bottom: 30px;
     width: 100vw;
@@ -201,7 +202,7 @@ export default {
             modalFlag: false,
             projectsIndex:0,
              projects: [
-            {
+             {
             title: 'Vue電商平台',
             imgUrl: '/img/vue-shopping.3dc6827a.png',
             href: 'https://m055165.github.io/vue-shopping/',
@@ -237,7 +238,7 @@ export default {
           {
             title: '阿里山草藥辨識App',
             imgUrl: '/img/ic_logo.bd7916df.png',
-            href: 'https://livepower0815.github.io/react-image-wall/build/',
+            href: 'https://github.com/M055165/identificationApp',
             content: [
               '中正大學畢業專題(系展第一名',
               '前端使用Flutter 後端使用Node.js 資料庫使用Mysql',
@@ -254,7 +255,9 @@ export default {
             this.projectsIndex = index
         },
         toProjects(index){
-            console.log(`projects的index${index}`)
+            console.log(this.projects[index]['href'])
+            this.$router.replace(`${this.projects[index]['href']}`)
+            console.log('dksmk')
         }
     }
 }

@@ -204,7 +204,7 @@ export default {
              projects: [
              {
             title: 'Vue電商平台',
-            imgUrl: '/img/vue-shopping.png',
+            imgUrl: 'https://firebasestorage.googleapis.com/v0/b/my-resume-f5266.appspot.com/o/vue-shopping.png?alt=media&token=928af636-181f-4b53-b7f2-4a9c7afac51d',
             href: 'https://m055165.github.io/vue-shopping/',
             content: [
               '前端框架使用Vue.js 搭配Vue router、Vue cli3 等技術',
@@ -215,7 +215,7 @@ export default {
           },
           {
             title: 'Vue電影訂票系統',
-            imgUrl: '/img/mymovie.png',
+            imgUrl: 'https://firebasestorage.googleapis.com/v0/b/my-resume-f5266.appspot.com/o/mymovie.png?alt=media&token=ea51cf5d-d0e9-482d-aa16-fc7993eed983',
             href: 'https://github.com/M055165/mymovie',
             content: [
               '前端框架使用Vue.js 搭配Vue router、Vue cli3 等技術',
@@ -226,7 +226,7 @@ export default {
           },
           {
             title: '水庫即時雨量',
-            imgUrl: '/img/vue-reservoir.png',
+            imgUrl: 'https://firebasestorage.googleapis.com/v0/b/my-resume-f5266.appspot.com/o/vue-reservoir.png?alt=media&token=976f9749-3d2e-452e-bee5-d3c6d462c07c',
             href: 'https://m055165.github.io/vue-reservoir/',
             content: [
               '透過製作網頁來時時關心台灣的水庫',
@@ -237,7 +237,7 @@ export default {
           },
           {
             title: '阿里山草藥辨識App',
-            imgUrl: '/img/ic_logo.png',
+            imgUrl: 'https://firebasestorage.googleapis.com/v0/b/my-resume-f5266.appspot.com/o/ic_logo.png?alt=media&token=c3c55833-c716-4b3e-a02a-4c60236c4f34',
             href: 'https://github.com/M055165/identificationApp',
             content: [
               '中正大學畢業專題(系展第一名',

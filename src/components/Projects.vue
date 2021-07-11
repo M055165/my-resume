@@ -60,7 +60,9 @@
     text-shadow: 3px 3px 6px #000000;
     position: relative;
 }
-
+a {
+    text-decoration: none;
+}
 .header {
     width: 100%;
     display: flex;
@@ -216,7 +218,7 @@ export default {
           {
             title: 'Vue電影訂票系統',
             imgUrl: 'https://firebasestorage.googleapis.com/v0/b/my-resume-f5266.appspot.com/o/mymovie.png?alt=media&token=ea51cf5d-d0e9-482d-aa16-fc7993eed983',
-            href: 'https://github.com/M055165/mymovie',
+            href: 'https://m055165.github.io/mymovie/',
             content: [
               '前端框架使用Vue.js 搭配Vue router、Vue cli3 等技術',
               '後端使用node.js 資料庫使用Mysql',

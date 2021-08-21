@@ -60,7 +60,7 @@
     width: 40%;
     height: 100%;
     border: 5px solid rgba($color: #fff, $alpha: .78);
-    background-image: url('../assets/415644.jpg');
+    background-image: url('../assets/364712.jpg');
     background-size: cover;
     background-position: center center;
   }

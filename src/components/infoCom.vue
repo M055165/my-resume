@@ -58,7 +58,6 @@
                             </div>
 
 
-
                             <div class="socials">
                                 <p class="title">SOCAILS</p>
                                 <ul>

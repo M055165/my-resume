@@ -1,11 +1,13 @@
 <template>
   <NavbarCom />
   <InfoCom />
+  <TimelineCom />
 </template>
 
 <script setup>
 import NavbarCom from '@/components/navbarCom.vue'
 import InfoCom from '@/components/infoCom.vue';
+import TimelineCom from '@/components/timelineCom.vue'
 </script>
 
 

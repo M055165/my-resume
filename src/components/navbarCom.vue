@@ -4,7 +4,7 @@
     <div class="content">
       <p class="name">Eddie Tsai</p>
       <p class="title">FRONTEND SOFTWARE ENGINEER</p>
-      <p class="hobbies">#Traveling #Camping #Movies #Drama #Fitness #Programming
+      <p class="hobbies">#Foodie #Traveling #Camping #Movies #Drama #Fitness #Programming
       </p>
       <div class="skills">
         <a href="https://google.com">

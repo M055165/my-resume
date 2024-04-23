@@ -8,7 +8,7 @@
                         <div class="left">
                             <div class="profile">
                                 <div class="avatar-box">
-                                    <img src="../assets/eddie.png" alt="avator img" class="avatar">
+                                    <!-- <img src="../assets/eddie.png" alt="avator img" class="avatar"> -->
                                 </div>
                                 <p>Eddie Tsai</p>
                                 <p>A chanlange-loving web developer</p>
@@ -121,11 +121,13 @@
                                 <v-container>
                                     <div class="autobiogrphy">
                                         <h3>Who am i?</h3>
-                                        <p class="mt-10">I'm a developer born in Iran and founder of Delix.ir, Bytegate.ir
+                                        <p class="mt-10">I'm a developer born in Iran and founder of Delix.ir,
+                                            Bytegate.ir
                                             and Bobet.ir
                                             and co-founder of Smo.li.
                                             I'm interested and skilled in different topics of Information Technology
-                                            including programming, web development, and computer and network security.</p>
+                                            including programming, web development, and computer and network security.
+                                        </p>
                                     </div>
 
                                     <div class="education">
@@ -231,12 +233,9 @@ li {
     .avatar-box {
         width: 150px;
         height: 150px;
-        margin: 20px 0px;
-    }
-
-    .avatar {
-        width: 100%;
-        height: 100%;
+        background-image: url('../assets/eddie.png');
+        background-size: cover;
+        background-position: center;
         border-radius: 50%;
     }
 }

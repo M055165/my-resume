@@ -31,7 +31,7 @@
                                             <v-icon class="mr-8 mt-1 icon">mdi-earth</v-icon>
                                             <div class="desc">
                                                 <p>Website</p>
-                                                <span>https://www.llt.com.tw</span>
+                                                <span>https://m055165.github.io/my-resume/#/</span>
                                             </div>
                                         </div>
                                     </li>
@@ -63,7 +63,7 @@
                                     <li>
                                         <div class="social-item">
                                             <v-icon class="mr-8 mt-1 icon">mdi-github</v-icon>
-                                            <a href="eddie055165@gmail.com">eddie055165@gmail.com</a>
+                                            <a href="https://github.com/M055165/my-resume">https://github.com/M055165/my-resume</a>
                                         </div>
                                     </li>
                                     <li>

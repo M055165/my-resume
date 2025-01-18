@@ -7,12 +7,12 @@
       <p class="hobbies">#Foodie #Traveling #Camping #Movies #Drama #Fitness #Programming
       </p>
       <div class="skills">
-        <a href="https://google.com">
-          <v-icon class="mr-5 icon ">mdi-facebook</v-icon>
+        <a href="https://www.linkedin.com/in/%E7%AB%A3%E6%99%BA-%E8%94%A1-600b4b241/">
+          <v-icon class="mr-5 icon ">mdi-linkedin</v-icon>
         </a>
-        <a href="https://google.com">
+        <a href="https://instagram.com/M055165">
           <v-icon class="mr-5 icon ">mdi-instagram</v-icon>
-        </a><a href="https://google.com">
+        </a><a href="https://github.com/M055165/my-resume">
           <v-icon class="mr-5 icon ">mdi-github</v-icon>
         </a>
       </div>

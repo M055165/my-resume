@@ -141,7 +141,6 @@
                                         </p>
                                         <p>
                                             5. 使用 Flutter 開發開季設備系統以及工程師設備輔助安裝Android/iOS/Web應用程式
-
                                         </p>
                                     </div>
 

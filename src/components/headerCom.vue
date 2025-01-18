@@ -6,11 +6,11 @@
             <v-icon icon="$menu"></v-icon>
         </label>
         <ul class="navbar_item">
-            <li><a href="/news" target="_self">NEWS</a></li>
+            <!-- <li><a href="/news" target="_self">NEWS</a></li>
             <li><a href="/software" target="_self">RESUME</a></li>
             <li><a href="/system" target="_self">WORKS</a></li>
             <li><a href="/sales" target="_self">TESTIMONIALS</a></li>
-            <li><a href="/ctc" target="_self">CONTACT</a></li>
+            <li><a href="/ctc" target="_self">CONTACT</a></li> -->
         </ul>
     </nav>
 </template>

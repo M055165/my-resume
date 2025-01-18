@@ -70,14 +70,13 @@
                                         <div class="social-item">
                                             <v-icon class="mr-8 mt-1 icon">mdi-linkedin</v-icon>
                                             <a
-                                                href="https://m055165.github.io/my-resume/#/">https://m055165.github.io/my-resume/#/</a>
+                                                href="https://www.linkedin.com/in/%E7%AB%A3%E6%99%BA-%E8%94%A1-600b4b241/">https://www.linkedin.com/in/%E7%AB%A3%E6%99%BA-%E8%94%A1-600b4b241/</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="social-item">
                                             <v-icon class="mr-8 mt-1 icon">mdi-instagram</v-icon>
-                                            <a
-                                                href="https://m055165.github.io/my-resume/#/">https://m055165.github.io/my-resume/#/</a>
+                                            <a href="https://instagram.com/M055165">https://instagram.com/M055165</a>
                                         </div>
                                     </li>
                                 </ul>
@@ -121,12 +120,28 @@
                                 <v-container>
                                     <div class="autobiogrphy">
                                         <h3>Who am i?</h3>
-                                        <p class="mt-10">I'm a developer born in Iran and founder of Delix.ir,
-                                            Bytegate.ir
-                                            and Bobet.ir
-                                            and co-founder of Smo.li.
-                                            I'm interested and skilled in different topics of Information Technology
-                                            including programming, web development, and computer and network security.
+                                        <p class="mt-10">您好，我叫蔡竣智，我畢業於國立中正大學資管系以及成人及繼續教育學系雙學位，2018年決定 申請雙主修資管系，在學校的課程
+                                            中學會了JAVA、C、Mysql以及資料結構等等....2018年也時因為課程的需要，正式踏入前端這令人又愛又恨的領域，透過學校的課
+                                            程、翻書以及線上課程也學會了各式各樣的前端技能。
+                                            目前在力寶龍集團的力麗科技擔任前端工程師，在工作上會用到的技能為Vue.js、Node.js、Flutter、mongoDb以及Docker，私底下
+                                            也會自學一些有興趣的技能，例如:k8s。
+                                            在工作中已完成的項目為:
+                                        </p>
+                                        <p>
+                                            1. 力麗科技官方網站的前後台設計與撰寫，此網站是透過Vue.js撰寫，此專案的前端部分從0到完成皆是由我獨立完成
+
+                                        </p>
+                                        <p>                                            2. 專案的修改密碼、重設密碼(使用Vue.js)
+                                        </p>
+                                        <p>
+                                            3. 報表生成系統( 使用Node.js)
+                                        </p>
+                                        <p>
+                                            4. 更生人保護協會全球網站(已開發完成，尚未上線)
+                                        </p>
+                                        <p>
+                                            5. 使用 Flutter 開發開季設備系統以及工程師設備輔助安裝Android/iOS/Web應用程式
+
                                         </p>
                                     </div>
 
@@ -269,6 +284,9 @@ li {
         padding-top: 5px;
         text-decoration: none;
         font-size: 14px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
 
         &:hover {
             color: powderblue;

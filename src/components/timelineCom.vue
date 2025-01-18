@@ -39,7 +39,11 @@ export default {
 
 2. 科技設備安裝系統App( 使用Flutter)
 
-3. 科技設備安裝系統儀表板（使用Vue.js)`
+3. 科技設備安裝系統儀表板（使用Vue.js)
+
+4. 財團法人臺灣更生保護會全球網站(使用Vue.js)
+
+`
             },
             {
                 color: 'purple-lighten-2',
